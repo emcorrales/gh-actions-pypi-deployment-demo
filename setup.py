@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='emclib',
-      version='0.1.2',
+      version='0.1.3',
       description='A simple hello world library',
       url='http://github.com/emcorrales/gh-actions-pypi-deployment-demo',
       author='Emmanuel M. Corrales',
