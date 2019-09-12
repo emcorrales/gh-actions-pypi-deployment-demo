@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='Hello World!',
-      version='0.0.1',
+      version='0.1',
       description='The funniest joke in the world',
       url='http://github.com/emcorrales/gh-actions-pypi-deployment-demo',
       author='Emmanuel M. Corrales',
