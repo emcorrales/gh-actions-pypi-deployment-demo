@@ -1,8 +1,8 @@
 from setuptools import setup
 
-setup(name='Hello World!',
+setup(name='hello-world',
       version='0.1',
-      description='The funniest joke in the world',
+      description='A simple hello world library',
       url='http://github.com/emcorrales/gh-actions-pypi-deployment-demo',
       author='Emmanuel M. Corrales',
       author_email='contact@emcorrales.com',
