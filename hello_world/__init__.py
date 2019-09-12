@@ -1,3 +1,3 @@
-def helloWorld():
+def display():
     print("Hello World!")
 
